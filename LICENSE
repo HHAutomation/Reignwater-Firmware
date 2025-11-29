@@ -1,0 +1,51 @@
+Copyright (c) 2025 HerpHub, LLC. All rights reserved.
+
+REIGNWATER FIRMWARE LICENSE
+
+This firmware binary and associated files (the "Firmware") are proprietary 
+and confidential to HerpHub, LLC.
+
+PERMITTED USE:
+- You may download and install this Firmware on authorized Reignwater 
+  controller hardware that you own or operate.
+- You may use this Firmware solely for the operation of Reignwater 
+  water filtration systems.
+
+RESTRICTIONS:
+- You may NOT reverse engineer, decompile, disassemble, or attempt to 
+  derive the source code of this Firmware.
+- You may NOT modify, adapt, translate, or create derivative works 
+  based on this Firmware.
+- You may NOT distribute, sublicense, lease, rent, loan, or otherwise 
+  transfer this Firmware to any third party.
+- You may NOT use this Firmware on non-Reignwater hardware or for any 
+  purpose other than operating a Reignwater controller.
+- You may NOT remove or alter any copyright notices or proprietary 
+  markings on the Firmware.
+
+OWNERSHIP:
+All intellectual property rights in and to this Firmware remain the 
+exclusive property of HerpHub, LLC. This license does not grant you 
+any ownership rights to the Firmware.
+
+SECURITY:
+Any attempt to reverse engineer, hack, or circumvent the security 
+measures of this Firmware is strictly prohibited and may result in 
+legal action.
+
+WARRANTY DISCLAIMER:
+THE FIRMWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY:
+IN NO EVENT SHALL HERPHUB, LLC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+FROM, OUT OF OR IN CONNECTION WITH THE FIRMWARE OR THE USE OR OTHER 
+DEALINGS IN THE FIRMWARE.
+
+For licensing inquiries or support, please contact:
+
+HerpHub, LLC
+Email: herphubautomation@gmail.com
+GitHub: https://github.com/HerpHub/Reignwater-Firmware

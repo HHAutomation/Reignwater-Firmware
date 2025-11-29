@@ -1,0 +1,13 @@
+{
+  "version": "0.8.5",
+  "build_date": "2025-11-29T18:27:43.852870Z",
+  "firmware_file": "firmware.bin",
+  "file_size_bytes": 1503552,
+  "sha256": "2cd081f42b057d3d87cdabc49f35cf80d2a1ed2d26b52fa03901da4206147042",
+  "min_app_version": "0.7.0",
+  "release_notes": [
+    "HTTP OTA firmware updates via WiFi",
+    "Bug fixes and stability improvements"
+  ],
+  "download_url": "https://raw.githubusercontent.com/HHAutomation/Reignwater-Firmware/main/firmware.bin"
+}

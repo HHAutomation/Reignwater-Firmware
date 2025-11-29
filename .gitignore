@@ -1,0 +1,15 @@
+# Firmware Build Artifacts
+*.map
+*.elf
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
