@@ -1,4 +1,4 @@
-# Reignwater Controller Firmware v0.8.5
+# Reignwater Controller Firmware v0.9.0
 
 **Release Date:** November 29, 2025
 
